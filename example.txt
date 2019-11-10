@@ -1,0 +1,9 @@
+# Food Store problem with Pyomo
+## Problem description
+
+<p> Food store is open 24hrs - 7 days a week.</p>
+<p> There are 3 shift of 8hrs: 6h-14h, 14h-22h, 22h-6h.</p>
+<p> During night shift there is only 1 worker, on the others 2. Except for Sunday which has only 1 per shift.</p>
+<p> Each worker will not exceed 40hrs of work and has to rest 12 hours before next shift.</p>
+<p> An employee who rest one Sunday will do the same that Saturday. </p>
+<p> There are 10 available employees, we wnat to optimize the number of workers. </p>
